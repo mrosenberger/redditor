@@ -1,0 +1,4 @@
+redditor
+========
+
+Automated redditor
